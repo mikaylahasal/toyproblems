@@ -12,5 +12,11 @@ return [0, 1].
 */
 
 var twoSum = function(nums, target) {
-
+  //create hash
+  //loop through array,
+    //set each index to key
+  //loop again
+    //set difference to target - arr[i]
+  //check hash to see if diff is a prop && if hash[diff] doesnt equal i
+    //return [i, hash[diff]]
 };
